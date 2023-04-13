@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: isis6-web
-          image: mrsappl/lab6:latest
+          image: VSM14/lab6:latest
           ports:
             - containerPort: 5000
           resources:
